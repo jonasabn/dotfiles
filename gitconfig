@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jonas@gmail.com
+	name = Jonas Neto
